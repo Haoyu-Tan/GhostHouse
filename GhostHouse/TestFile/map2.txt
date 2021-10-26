@@ -1,0 +1,23 @@
+20 20
+
+
+W 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 W
+W 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 W
+W 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 W
+W 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 W
+W 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 W
+W 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 W
+W 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 W
+W 0 0 0 0 0 key 0 0 0 0 0 0 0 0 0 0 0 0 W
+W 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 W
+W 0 0 DV 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 W
+W 0 0 0 0 0 0 b 0 BG 0 BG 0 0 0 0 0 0 0 W
+W 0 0 0 0 0 0 0 0 DV 0 DV 0 0 0 0 0 0 0 W
+W 0 0 0 0 0 0 0 0 0 wg DV 0 0 0 0 0 0 0 W
+W W W W W W W W W W 0 W W W 0 W W W W W
+W W W W W W W W W bL 0 tR W W 0 0 W W W W
+W W W W W W W W W Gun 0 0 0 0 0 wg W W W W
+W W W W W W W W W BL 0 bR W W 0 0 W W W W
+W W W W W W W W W c 0 c W W W 0 0 W W W
+W W W W W W W W W W S W W W W W W W W W
+W W W W W W W W W W DH W W W W W W W W W

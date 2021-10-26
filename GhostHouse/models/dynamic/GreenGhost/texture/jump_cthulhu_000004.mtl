@@ -1,0 +1,12 @@
+# Blender MTL File: 'cthulhu.blend'
+# Material Count: 1
+
+newmtl Material
+Ns 8.006322
+Ka 0.693182 0.693182 0.693182
+Kd 0.004327 0.233015 0.025937
+Ks 0.579545 0.579545 0.579545
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3

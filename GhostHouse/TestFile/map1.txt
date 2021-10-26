@@ -1,0 +1,24 @@
+5 22
+
+W W W W W
+WL 0 G 0 WR
+WL 0 0 0 WR
+WL c 0 c WR
+WL W DH W WR
+WL 0 0 key WR
+WL BG 0 0 WR
+WL 0 0 p WR
+WL b 0 0 WR
+WL 0 0 BR WR
+WL 0 0 B WR
+WL sL 0 0 WR
+WL 0 wg 0 WR
+WL 0 0 bR WR
+WL dL 0 bR WR
+WL 0 wg Gun WR
+WL tR 0 WR W
+WL 0 0 0 WR
+WL bL 0 0 WR
+WL 0 0 WR WR
+WL c S c WR
+WB WB WB WB WB

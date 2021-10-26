@@ -1,0 +1,21 @@
+20 20
+W  W  W  W  W  W  W  W  W  W  W  W  W  W  W  W  W  W  W  W
+W  T  G  T  0  W  0  0  0  0  wg  0  0  0  0  0  0  0  Gun  W
+W  c  0  0  0  W  0  0  0  W  0  0  0  0  0  0  W  0  0  W
+W  0  0  0  0  W  0  0  0  W  0  0  0  W  0  0  W  c  0  W
+W  0  0  BG  0  W  0  0  0  0  0  0  0  W  0  0  0  0  0  W
+W  0  BG  0  0  W  0  0  key  0  0  BG  0  0  0  0  0  0  0  W
+W  DH  W  W  W  W  0  0  W  W  W  W  W  W  W  0  W  W  d  W
+W  0  BG  0  0  0  0  0  0  BG  0  W  b  0  0  0  0  b  0  W
+W  0  wg  0  0  0  0  0  0  0  0  W  0  0  0  0  wg  0  c  W
+W  c  0  0  0  0  0  W  0  0  0  W  0  0  0  0  W  0  0  W
+W  0  0  0  W  0  wg  0  0  0  0  W  0  wg  0  0  0  0  0  W
+W  0  0  0  0  0  0  0  0  0  c  W  0  0  W  0  0  0  BG  W
+W  W  W  W  W  W  W  W  W  W  DH  W  0  0  0  0  wg  0  0  W
+W  0  0  0  W  0  b  b  0  W  0  BG  0  0  0  0  0  0  0  W
+W  0  c  0  W  0  0  0  0  W  0  0  0  0  W  c  0  0  0  W
+W  0  0  0  0  0  0  wg  0  W  0  0  tL  BG  0  0  0  W  0  W
+W  0  S  0  W  0  0  0  0  DV  0  0  0  0  0  0  0  tL  Gun  W
+W  0  0  0  W  BG  0  c  0  W  0  0  0  0  0  0  0  0  0  W
+W  Gun  0  0  W  0  key  bB  0  W  p  0  0  0  bB  KB  key  bB  BG  W
+W  W  W  W  W  W  W  W  W  W  W  W  W  W  W  W  W  W  W  W
