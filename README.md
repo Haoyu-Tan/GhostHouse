@@ -61,5 +61,7 @@ Link: https://www.youtube.com/watch?v=rUeTahx_hps
 ## References:
 
 http://www.opengl-tutorial.org/beginners-tutorials/tutorial-7-model-loading/
+
 https://www.patreon.com/quaternius
+
 https://www.youtube.com/watch?v=MKa06EwFuJk
