@@ -8,6 +8,13 @@ This project extended the previous OpenGL Maze Game. It is a 3D first person sho
 
 **This is a course project (Spring 2021 Semester), and the original submission page is on: https://sites.google.com/umn.edu/haoyutan/home/final-project-report. However, the submission webpage is for reference only so please still use the code from GitHub. Thanks a lot!**
 
+## Presentation Video
+
+Link: https://www.youtube.com/watch?v=rUeTahx_hps
+
+[![321b61b487700d2a87ac9d09339ded7](https://user-images.githubusercontent.com/35856355/143881077-36ed0669-e705-42a6-9f7b-3f74148b496b.png)
+](https://www.youtube.com/watch?v=rUeTahx_hps)
+
 ## How to Run the Program
 
 1. Run FinalGame.exe under the ./GhostHouse folder using command line, together with a map file under the ./TestFile/map4.txt. For example:
@@ -28,9 +35,6 @@ This project extended the previous OpenGL Maze Game. It is a 3D first person sho
 
 Have fun :)
 
-## Presentation Video
-
-Link: https://www.youtube.com/watch?v=rUeTahx_hps
 
 ## Key Features & Images
 
