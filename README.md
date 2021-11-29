@@ -6,7 +6,7 @@ This is a group project done by Haoyu Tan and Ruichen He.
 
 This project extended the previous OpenGL Maze Game. It is a 3D first person shooter adventure game. When the game starts, the player is in an old castle with a gun and a torch in hand. There are also some ghosts in the castle that are waiting to attack the player. The player needs to avoid being attacked by ghosts in the house and find the final treasure. The gun can freeze the ghost for a while. At the same time, if the torch is turned off, the ghost will only detect player in a longer distance comparing with that of when the torch is on. The user control and presentation video attached below will provide more details about this project.
 
-**This is a course project, the original submission page is on: https://sites.google.com/umn.edu/haoyutan/home/final-project-report. However, the submission webpage is for reference only, please still download the code from github, thanks a lot!**
+**This is a course project (Spring 2021 Semester), and the original submission page is on: https://sites.google.com/umn.edu/haoyutan/home/final-project-report. However, the submission webpage is for reference only so please still use the code from GitHub. Thanks a lot!**
 
 ## How to Run the Program
 
