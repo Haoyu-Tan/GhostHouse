@@ -16,7 +16,7 @@ public:
 	glm::vec3 ranslateDist;
 
 	StaticFurniture();
-	StaticFurniture::StaticFurniture(float p_x, float p_y, float sf, sModelType type, glm::vec3 ra, glm::vec3 tdist,int gtype);
+	StaticFurniture(float p_x, float p_y, float sf, sModelType type, glm::vec3 ra, glm::vec3 tdist,int gtype);
 	~StaticFurniture();
 	bool CheckPosition(float l, float r, float t, float b);
 	bool CheckObjPosition(float l, float r, float t, float b);

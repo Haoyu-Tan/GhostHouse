@@ -40,7 +40,7 @@ public:
 	void Generation(float dt, glm::vec3 pos);
 	void ChangeFacing(glm::vec3 pdir);
 	void Shot(float dt, std::vector<Wall*>* w, std::vector<StaticFurniture*>* sfurn);
-	void UglyBall::CheckSwitch(float dt, glm::vec3 pos);
+	void CheckSwitch(float dt, glm::vec3 pos);
 };
 
 
