@@ -1,5 +1,5 @@
 #ifndef FRUIT_INCLUDED
-#define FTUIT_INCLUDED
+#define FRUIT_INCLUDED
 
 
 #include "../glm/glm.hpp"

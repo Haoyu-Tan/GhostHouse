@@ -143,7 +143,7 @@ void Scene::printSceneInfo() {
 	printf("print static furniture:\n");
 	for (int i = 0; i < staticFurnitures.size(); i++) {
 		StaticFurniture* sf = staticFurnitures.at(i);
-		printf("static furniture: %d, type: %d, location x: %d, y: %d\n", i, sf->modelType, sf->pos_x, sf->pos_y);
+		printf("static furniture: %d, type: %d, location x: %f, y: %f\n", i, sf->modelType, sf->pos_x, sf->pos_y);
 	}
 }
 

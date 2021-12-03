@@ -98,7 +98,7 @@ void WhiteGhost::Animate(float dt) {
 				//if (aIndex >= 1) {
 					//printf("PUSH BACK %f\n", dOM->at(f1index));
 				//}
-				/*
+				
 				if (w0 <= 0.25){
 					w0 = 0.25;
 					w1 = 0.75;

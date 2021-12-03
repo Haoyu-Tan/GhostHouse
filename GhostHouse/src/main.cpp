@@ -1287,7 +1287,7 @@ int addAnimation(std::string path, int Anum, int Fnum, vector<float>* dOutModel,
 
 		}
 	}
-	
+	return 1;
 }
 
 
