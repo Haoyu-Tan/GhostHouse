@@ -1,6 +1,7 @@
 # Visual Studio cache directory
 .vs/
-*.sln
-*.vcxproj
-*.filters
-*.user
+./x64
+#*.sln
+#*.vcxproj
+#*.filters
+#*.user

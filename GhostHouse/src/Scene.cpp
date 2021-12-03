@@ -319,7 +319,7 @@ void Scene::drawGeometry(int shaderProgram, std::vector<Model*> staticModels,
 
 		model = glm::mat4(1);
 
-		printf("current height is: %f\n", float(cdoor->currentHeight));
+		//printf("current height is: %f\n", float(cdoor->currentHeight));
 		model = glm::translate(model, glm::vec3(-scaleFactor * (cdoor->pos_x), cdoor->currentHeight, scaleFactor * cdoor->pos_y));
 		model = glm::scale(model, glm::vec3(realSF, realSF, realSF));
 		model = glm::rotate(model, cdoor->angle, glm::vec3(0.0f, 1.0f, 0.0f));
@@ -604,7 +604,7 @@ void Scene::Update(float dt, glm::vec3 pp, glm::vec3 pd) {
 		}
 	}
 	for (int i = 0; i < doors.size(); i++) {
-		printf("before update, height: %f\n", (doors.at(i))->currentHeight);
+		//printf("before update, height: %f\n", (doors.at(i))->currentHeight);
 		doors.at(i)->update(dt, pp);
 		
 	}

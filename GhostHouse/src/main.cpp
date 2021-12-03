@@ -325,7 +325,7 @@ int main(int argc, char *argv[]) {
 
 	glClearColor(0.1f,0.1f,0.1f ,1.0f);
 	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
-	printf("I am here\n");
+	//printf("I am here\n");
 
 	
 	glBufferData(GL_ARRAY_BUFFER, sizeof(vertices), vertices, GL_DYNAMIC_DRAW);
@@ -1551,9 +1551,9 @@ bool parseSceneFile(std::string fileName, Scene* scene) {
 				(scene->doors).push_back(new Door(j, i, ' ', scaleFactor, 1));
 			}
 			else if (std::strcmp(c.c_str(), "key") == 0) {
-				printf("in key before key\n");
+				//printf("in key before key\n");
 				(scene->keys).push_back(new Key(j, i, ' ', scaleFactor));
-				printf("in key after key\n");
+				//printf("in key after key\n");
 
 			}
 			else if (std::strcmp(c.c_str(), "Gun") == 0) {

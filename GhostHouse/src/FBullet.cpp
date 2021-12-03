@@ -42,7 +42,7 @@ void FBullet::Update(float dt, std::vector<Wall*>* w, std::vector<StaticFurnitur
 	glm::vec4 newPos4 = mm * glm::vec4(motion.x, motion.y, motion.z, 1.0);
 	glm::vec3 newPos = glm::vec3(newPos4.x, newPos4.y, newPos4.z);
 	newPos += position;
-	printf("FBULLET POSITION IS %f %f %f\n", newPos.x, newPos.y, newPos.z);
+	//printf("FBULLET POSITION IS %f %f %f\n", newPos.x, newPos.y, newPos.z);
 	
 
 	//

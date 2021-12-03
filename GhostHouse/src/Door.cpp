@@ -46,7 +46,7 @@ Door::Door(int p_x, int p_y, char i, float sf,int type) {
 	bottom = centery -  float(sf) / 2.0f - outside;
 	left = centerx -  float(sf) / 2.0f - outside;
 	right = centerx +  float(sf) / 2.0f + outside;
-	printf("TOP is %f, Bottom is %f, left is %f, right is %f", top, bottom, left, right);
+	//printf("TOP is %f, Bottom is %f, left is %f, right is %f", top, bottom, left, right);
 	
 	
 	freezeTime = max_freeze_time;
@@ -76,7 +76,7 @@ void Door::checkPP(glm::vec3 pp) {
 	dir.y = 0;
 	float len = glm::length(dir);
 
-	printf("len is: %f\n", len);
+	//printf("len is: %f\n", len);
 	//check dist
 	if (len - 2.8f <= 0.001f) {
 		status = 1;
@@ -89,7 +89,7 @@ void Door::checkPP(glm::vec3 pp) {
 			}
 		}
 	}*/
-	printf("status: %d\n", status);
+	//printf("status: %d\n", status);
 }
 
 void Door::update(float dt, glm::vec3 pp) {
