@@ -17,9 +17,34 @@ Link: https://www.youtube.com/watch?v=rUeTahx_hps
 
 ## How to Run the Program
 
-1. Run FinalGame.exe under the ./GhostHouse folder using command line, together with a map file under the ./TestFile/map4.txt. For example:
+This program is written in C++ with OpenGL and SDL2 so please make sure your computer has SDL library downloaded. There are two ways to run the program
 
-    FinalGame ./TestFile/map4.txt
+1. There is a **Makefile** in the ./GhostHouse folder. Run the command **make** on terminal to compile. The output executable is called **GhostHouse**. Use the following command on terminal to run the program (map4.txt has the best quality):
+
+        ./GhostHouse ./TestFile/map4.txt 
+
+3. If there make is not available, use the **FinalGame.sln** in the ./GhostHouse folder with some settings:
+
+    (1) Open the .sln file and click on **Properties**
+
+    ![64cdc56594833c4473bb06b01abdec4](https://user-images.githubusercontent.com/35856355/144598519-00025335-5477-41fa-849e-84e3d195f21c.png)
+
+    (2) Click on **VC++Directories** and change the paths of **Include Directories** and **Library Directories** to the SDL2 include and SDL2 lib on your computer. Also change the **Configuration** on the top to **Active(Debug)** and **Platform** to **x64**
+
+    ![a153c444cdc12e074964feeb58da9b8](https://user-images.githubusercontent.com/35856355/144598775-54870698-4c25-43d0-b6bd-4dc75b0e35ec.png)
+
+    (3) Click on **Linker** and then **Input**, added the following dependencies on **Additional Dependencies**
+
+    ![a2acfb2b0d3c04ef5846aa0c70493c4](https://user-images.githubusercontent.com/35856355/144599617-010016b4-6d4a-419d-8088-2452e32a191b.png)
+
+    (4) Click on **System** select **Console** as subsystem
+    ![2705d92450b5f1b20c413f2ddf00dc2](https://user-images.githubusercontent.com/35856355/144599862-7bad510a-d64d-4865-ab34-b6068793dc6d.png)
+
+    (5) If the **Command Arguments** under the **Debugging** is empty, add a file inside the ./TestFile folder(map4.txt has the best quality).
+    ![18274f1dca887476ab75d5c3c7e231b](https://user-images.githubusercontent.com/35856355/144600159-da6c2c07-81b4-423b-8b6e-b342d0775e63.png)
+
+    (6) Hit apply. Then go back and click on "Local Windows Debugger" to run the program
+    ![00741734897ff5b19c63f19d8ba903f](https://user-images.githubusercontent.com/35856355/144600835-c5136168-e3c1-410c-a267-8f597b2933e7.png)
 
 ## User Control
 
